@@ -1,0 +1,27 @@
+body,html{
+    margin: 0px auto;
+}
+.input{
+   background: blue;
+   border-color: blue;
+   font-size: large;
+}
+.unorder-list{
+    display: flex;
+}
+.container{
+    background-color: rgb(85, 132, 173);
+    height: auto;
+    width: 100%;
+    margin-top: 0px;
+}
+.content{
+   margin-left: 30%;
+}
+.display{
+    font-size: large;
+}
+.no-data{
+    text-align: center;
+    margin-right: 220px;
+}
